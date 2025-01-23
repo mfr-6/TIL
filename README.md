@@ -15,6 +15,10 @@ Now it's time to start sharing this knowledge to everyone.
 ### Categories
 
 - [Docker](#Docker)
+- [Ansible](#Ansible)
 
 ### Docker 
 - [Removing Images Older Than 30 days](docker/removing-images-older-than.md)
+
+### Ansible
+- [Deleting user with associated homedir on target Linux machine](ansible/deleting-user-with-homedir.md)
