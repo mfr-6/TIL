@@ -19,6 +19,7 @@ Now it's time to start sharing this knowledge to everyone.
 
 ### Infrastructure as a Code
 - [Ansible](#Ansible)
+- [Terraform](#Terraform)
 
 ### Containers
 - [Docker](#Docker)
@@ -33,5 +34,8 @@ Now it's time to start sharing this knowledge to everyone.
 
 ### Docker
 - [Removing Images Older Than 30 days](docker/removing-images-older-than.md)
+
+### Terraform
+- [String Interpolation in Terraform](terraform/string-interpolation-in-tf.md)
 
 
