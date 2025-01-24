@@ -28,14 +28,21 @@ Now it's time to start sharing this knowledge to everyone.
 
 ### Bash
 - [Shortening Path Displayed in Bash Prompt](bash/shorten-path-in-prompt.md)
+---
 
 ### Ansible
 - [Deleting user with associated homedir on target Linux machine](ansible/deleting-user-with-homedir.md)
+---
 
 ### Docker
+#### - General
+- [What is Dangling Image?](/docker/what-is-dangling-image.md)
+
+#### - Guides
 - [Removing Images Older Than 30 days](docker/removing-images-older-than.md)
+---
 
 ### Terraform
 - [String Interpolation in Terraform](terraform/string-interpolation-in-tf.md)
-
+---
 
